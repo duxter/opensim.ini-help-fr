@@ -1,0 +1,35 @@
+ #######  ########  ######## ##    ## ##          ###    ########  ########  ######   
+##     ## ##     ## ##       ###   ## ##         ## ##   ##     ## ##       ##    ##  
+##     ## ##     ## ##       ####  ## ##        ##   ##  ##     ## ##       ##        
+##     ## ########  ######   ## ## ## ##       ##     ## ########  ######   ##   #### 
+##     ## ##        ##       ##  #### ##       ######### ##     ## ##       ##    ##  
+##     ## ##        ##       ##   ### ##       ##     ## ##     ## ##       ##    ##  
+ #######  ##        ######## ##    ## ######## ##     ## ########  ##        ######   
+
+;//////////////////////////////////////////////////////////////////////////////////////////////////
+;//												 //
+;//                 	 Opensim.ini an opensimulator server config file	      			 //
+;//								                                 //
+;//////////////////////////////////////////////////////////////////////////////////////////////////
+
+; Introduction.
+
+; This test aims to dissect the main file server configuration OpenSim.ini
+
+; Configuration file from a server OpenSimulator
+; Introduction.
+; This test aims to dissect the main configuration file
+; OpenSim.ini server to make it accessible to many people.
+
+; General Description:
+
+; Important sections [] Commented Files ;, Boolean false-Disabled / Enabled = true
+; Comment or uncomment Options +; -;
+; The name "monsim" is used here to denote the OpenSim server, but also the directory
+, Containing the main server binaries / home / usr / monsim / bin.
+
+; More help may be available here:
+; Http://opensimulator.org/wiki/OpenSim.ini
+; Http://www.opensimulator.fr/OpenSim_doc/doku.php/home:configuration:monitoring_de_la_grid
+
+Duxter duxternewman@gmail.com
