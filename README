@@ -1,9 +1,35 @@
+ #######  ########  ######## ##    ## ##          ###    ########  ########  ######   
+##     ## ##     ## ##       ###   ## ##         ## ##   ##     ## ##       ##    ##  
+##     ## ##     ## ##       ####  ## ##        ##   ##  ##     ## ##       ##        
+##     ## ########  ######   ## ## ## ##       ##     ## ########  ######   ##   #### 
+##     ## ##        ##       ##  #### ##       ######### ##     ## ##       ##    ##  
+##     ## ##        ##       ##   ### ##       ##     ## ##     ## ##       ##    ##  
+ #######  ##        ######## ##    ## ######## ##     ## ########  ##        ######   
+
 ;//////////////////////////////////////////////////////////////////////////////////////////////////
-;//												//
-;//                 	 Fichier de configuration d'un serveur opensim				//
-;//											Duxter  //
+;//												 //
+;//                 	 Fichier de configuration d'un serveur opensim	      			 //
+;//								                                 //
 ;//////////////////////////////////////////////////////////////////////////////////////////////////
 
 ;Introduction.
 
-;Cette epreuve a pour but de decortiquer le fichier principal de configuration du serveur OpenSim.ini 
+;Cette epreuve a pour but de decortiquer le fichier principal de configuration du serveur OpenSim.ini
+
+;Fichier de configuration d'un serveur OpenSimulator
+;Introduction.
+;Cette épreuve a pour but de décortiquer le fichier principal de configuration
+;du serveur OpenSim.ini afin de le rendre accessible a plus grand nombre.
+
+; Description générale:
+
+; Sections Importantes [] ,Fichiers Commentés Désactivés ; , Booléens false-Désactivé / true=Activé
+; commente ou dé-commente les options +; -;
+;Le nom "monsim" sera utiliser ici pour désigner le serveur OpenSim, mais aussi le répertoire
+;principale contenant les binaires du serveur /home/usr/monsim/bin.
+
+; plus d'aides peuvent en êtres disponible ici:
+;http://opensimulator.org/wiki/OpenSim.ini
+;http://www.opensimulator.fr/OpenSim_doc/doku.php/home:configuration:monitoring_de_la_grid
+
+Duxter duxternewman@gmail.com
